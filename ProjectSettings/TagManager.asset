@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Package
   - Customer
+  - House
+  - Boost
   layers:
   - Default
   - TransparentFX
